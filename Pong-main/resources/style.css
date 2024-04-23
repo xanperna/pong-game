@@ -1,0 +1,28 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #3f00ab;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    width: 100%;
+    overflow: scroll;
+
+    }
+
+h1 {
+        padding: 35px;
+    }
+
+p {
+        padding: 25px;
+    }
+
+#breadcrumb, a {
+    text-align: left;
+    color: rgb(255, 242, 0);
+    
+}
